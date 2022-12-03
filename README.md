@@ -29,7 +29,7 @@
 
 ## 📊 My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugodebes&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brice789&show_icons=true&theme=tokyonight)
 
 ## 📫 Feel free to contact me, I'll be glad to talk with you !
 
