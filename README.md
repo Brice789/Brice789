@@ -35,7 +35,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/hugo-debes-405904172/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/kireche-brice"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 
 </p>
 <!--
