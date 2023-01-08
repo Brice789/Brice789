@@ -18,10 +18,8 @@
 ## 🚀 Languages and Tools:
 
 **Programming Languages**
-
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />| <img alt="C" title="Csharp" width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> |<img title="JavaScript" alt="JavaScript" width="40px"src="https://img.icons8.com/color/48/null/javascript--v2.png"/> |<img title="react-native" alt="react-native" width="40px"src="https://img.icons8.com/color/48/null/react-native.png"/>|<img title="react-native" alt="react-native" width="40px"src="https://img.icons8.com/color/48/null/html-5--v1.png"/>|<img title="react-native" alt="react-native" width="40px"src="https://img.icons8.com/color/48/null/sass.png"/>
-
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://icons8.com/icon/123603/react-native.png"/>|<img title="react-native" alt="react-native" width="40px" src="https://icons8.com/icon/20909/html-5.png">|<img title="react-native" alt="react-native" width="40px" src="https://icons8.com/icon/QBqFNfPPB2Kx/sass.png">|<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">
+  
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/react-native.png"/>|<img title="html5" alt="html5" width="40px" src="https://icons8.com/icon/20909/html-5.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/html-5--v1.png">
 
 |--|--|--|
 
