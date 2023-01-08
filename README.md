@@ -1,13 +1,19 @@
 - 👋 Hi, I’m Brice
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Creating a better world
+- 🌱 I’m currently learning Cybersécurity, and IA
+- 💞️ I’m looking to collaborate on WEB devellopeent for some projects
+- 📫 How to reach me : kireche.brice@gmail.com
 
 
 - 🌱 I'm currently studying Cybersécurity and web devellopement
-- 💻 I'll post regularly some of my projects 
-- 👁️‍🗨️ You can reach me on Linkedin
+- 💻 I'll post regularly some of my projects on Docker Hub
+
+
+<p align="left">
+
+<a href = "https://hub.docker.com/u/brice123456789"><img src="https://icons8.com/icon/22813/docker"/></a>
+
+</p>
 
 
 ## 🚀 Languages and Tools:
