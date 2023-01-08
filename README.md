@@ -6,13 +6,11 @@
 
 
 - 🌱 I'm currently studying Cybersécurity and web devellopement
-- 💻 I'll post regularly some of my projects on Docker Hub
+- 💻 I'll post regularly some of my projects on Docker Hub, click on it
 
 
 <p align="left">
-
-<a href = "https://hub.docker.com/u/brice123456789"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F22813%2Fdocker&psig=AOvVaw0YmPOaEN1lYlXlKdPVB7mk&ust=1673266410627000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICsyqH5t_wCFQAAAAAdAAAAABAE"/></a>
-
+<a href = "https://hub.docker.com/u/brice123456789"><img src="https://icons8.com/icon/22813/docker"/></a>
 </p>
 
 
