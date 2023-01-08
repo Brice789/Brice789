@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brice
-- 👀 I’m interested in Creating a better world
-- 🌱 I’m currently learning Cybersécurity, and IA
-- 💞️ I’m looking to collaborate on WEB devellopeent for some projects
+- 👀 I’m interested in Creating a better world!
+- 🌱 I’m currently learning Cybersécurity, and IA and Cloud Computing
+- 💞️ I’m looking to collaborate on Web devellopent for some projects
 - 📫 How to reach me : kireche.brice@gmail.com
 
 
