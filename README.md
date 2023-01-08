@@ -6,7 +6,7 @@
 
 
 - 🌱 I'm currently studying Cybersécurity and web devellopement
-- 💻 I'll post regularly some of my projects on Docker Hub, click on it
+- 💻 I'll post regularly some of my projects on Docker Hub, click on it to know more
 
 
 <p align="center">
@@ -19,7 +19,8 @@
 
 **Programming Languages**
   
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/react-native.png"/>| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/html-5--v1.png">
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="C" alt="C" width="40px" src="https://img.icons8.com/fluency/48/null/c-programming.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/react-native.png"/>| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/html-5--v1.png">
+  
 
 |--|--|--|
 
@@ -30,7 +31,7 @@
 
 **Tools**
 
-<img title="Colab" alt="Colab" width="40px" src="https://colab.research.google.com/img/colab_favicon_256px.png">|<img title="Jupyter" alt="jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Anaconda" alt="anaconda" width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">|<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="Rstudio" alt="rstudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">|<img title="Terminal" alt="terminal" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png">|<img title="microsoft-office" alt="microsoft-office" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">
+<img title="Colab" alt="Colab" width="40px" src="https://colab.research.google.com/img/colab_favicon_256px.png">|<img title="Jupyter" alt="jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Anaconda" alt="anaconda" width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">|<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/dusk/64/null/visual-studio-code-2019.png">|<img title="Rstudio" alt="rstudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">|<img title="microsoft-office" alt="microsoft-office" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">
 |--|--|--|--|--|--|--|--|--|
 
 ## 📊 My Github Stats
