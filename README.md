@@ -21,9 +21,13 @@
   
 
   
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="C" alt="C" width="40px" src="https://img.icons8.com/fluency/48/null/c-programming.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/react-native.png"/>| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/html-5--v1.png"><br>
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/fluency/48/null/c-programming.png">|<img alt="C++" title="Cs" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="C" alt="C" width="40px" src="">|<img title="JavaScript" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/null/javascript--v2.png"> |<img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/react-native.png"/>| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/sass.png">| <img title="react-native" alt="react-native" width="40px" src="https://img.icons8.com/color/48/null/html-5--v1.png"><img title="php" alt="Php" width="40px" src="https://img.icons8.com/dusk/64/null/php-logo.png"><br>
+  
+  
 
 
+  
+  
 **Database Management System**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="Oracle" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png">|  
@@ -36,6 +40,8 @@
 
 <img title="Jupyter" alt="jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Anaconda" alt="anaconda" width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">|<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/dusk/64/null/visual-studio-code-2019.png">|<img title="Rstudio" alt="rstudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">|<img title="GitHub" alt="Github & GitLab" width="40px" src="https://img.icons8.com/nolan/64/git.png"><br>
 
+  
+  https://img.icons8.com/dusk/64/null/php-logo.png
 
 
 ## 📊 My Github Stats
