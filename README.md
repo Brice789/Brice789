@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Cybersécurity, and IA and Cloud Computing
 - 💞️ I’m looking to collaborate on Web devellopent for some projects
-- 📫 How to reach me : kireche.brice@gmail.com
 
 
 - 🌱 I'm currently studying Cybersécurity and web développement
